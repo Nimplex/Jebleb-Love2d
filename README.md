@@ -21,8 +21,8 @@
 
 ## Download
 
-- Mega: [Mega](https://mega.nz/#!C0RzQarR!wsz9y1HRaMsl7d6HkYIgwpM7lxUdFgs1ab4iGI_DGAs)
-- Mediafire: [Mediafire](https://www.mediafire.com/file/uvhniabd1zkzft3/build.rar/file)
+- Mega: [Mega](https://mega.nz/#!al4SCKYS!CeGv41_D63lQTa1Y2RH_UqR8L4KkMY9BLOH6EFb6rsk)
+- Mediafire: [Mediafire](https://www.mediafire.com/file/70kmcr4kv670y4h/Jebleb-Build.rar/file)
 
 ## Show your support
 
