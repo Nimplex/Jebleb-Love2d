@@ -19,6 +19,11 @@
 - Twitter: [@Nimplexy](https://twitter.com/Nimplexy)
 - Github: [@Nimplex](https://github.com/Nimplex)
 
+## Download
+
+- Mega: [Mega](https://mega.nz/#!C0RzQarR!wsz9y1HRaMsl7d6HkYIgwpM7lxUdFgs1ab4iGI_DGAs)
+- Mediafire: [Mediafire](https://www.mediafire.com/file/uvhniabd1zkzft3/build.rar/file)
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
