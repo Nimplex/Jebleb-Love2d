@@ -14,7 +14,7 @@
 
 ## Author
 
-👤 **Nimplex (ctrl-team))**
+👤 **Nimplex (ctrl-team)**
 
 - Twitter: [@Nimplexy](https://twitter.com/Nimplexy)
 - Github: [@Nimplex](https://github.com/Nimplex)
@@ -25,7 +25,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2020 [Nimplex (ctrl-team))](https://github.com/Nimplex).<br />
+Copyright © 2020 [Nimplex (ctrl-team)](https://github.com/Nimplex).<br />
 This project is [MIT](https://github.com/ctrl-team/Jebleb-Love2d/blob/master/LICENSE) licensed.
 
 ---
