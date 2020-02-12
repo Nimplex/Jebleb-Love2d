@@ -29,7 +29,7 @@ function love.draw()
     love.graphics.print("Score: "..score.len,love.graphics.getWidth()/2-50,0)
   else
     love.graphics.setColor(255,255,255)
-    score = 0
+    score.len = 0
     love.graphics.circle("fill", button.x , button.y-20, button.size)
     love.graphics.setColor(0,0,0)
     love.graphics.setFont(menu_font)
